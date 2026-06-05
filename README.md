@@ -1,14 +1,14 @@
-# Viola Sunday — Product Management Portfolio
+# Viola S — Product Management Portfolio
 
 **Product Manager · QA & Product Operations · Fintech & SaaS**
 
-Lagos, Nigeria · [violasunday.a@gmail.com](mailto:violasunday.a@gmail.com) · [LinkedIn](https://linkedin.com/in/viola-sunday)
+Lagos, Nigeria · 
 
 ---
 
 ## About Me
 
-I'm a product manager with 6+ years of experience building and improving SaaS products — starting from the customer side and working my way into full product ownership. My background spans fintech (wallet systems, payments, escrow), edtech, proptech, and marketplace products.
+I'm a product manager with 6+ years of experience building and improving SaaS products starting from the customer side and working my way into full product ownership. My background spans fintech (wallet systems, payments, escrow), edtech, proptech, and marketplace products.
 
 What makes my PM work different: I've been the person who takes the support ticket, escalates the bug, validates the fix, and writes the post-mortem. That context makes me a better PM — I write acceptance criteria engineers can actually build from, I spot edge cases early, and I design flows that account for what happens when things go wrong.
 
